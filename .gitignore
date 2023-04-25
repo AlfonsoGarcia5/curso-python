@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/python,windows,linux,macos
-# Edit at https://www.toptal.com/developers/gitignore?templates=python,windows,linux,macos
+# Created by https://www.toptal.com/developers/gitignore/api/windows,linux,macos,python
+# Edit at https://www.toptal.com/developers/gitignore?templates=windows,linux,macos,python
 
 ### Linux ###
 *~
@@ -218,6 +218,9 @@ poetry.toml
 # ruff
 .ruff_cache/
 
+# LSP config files
+pyrightconfig.json
+
 ### Windows ###
 # Windows thumbnail cache files
 Thumbs.db
@@ -244,4 +247,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/python,windows,linux,macos
+# End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,python
