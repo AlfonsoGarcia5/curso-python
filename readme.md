@@ -8,12 +8,12 @@ python3 main.py
 ```
 # App project
 INSTRUCCIONES PARA CORRER GRAFICADOR DE POBLACION MUNDIAL
-'''sh
+```sh
 git clone
 cd App
 source VEnv/bin/activate
 pip install -r requirements.txt
 python3 main.py
-'''
+´´´
 
 
